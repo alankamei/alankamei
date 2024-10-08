@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Alan!
-💭 Currently learning about AWS deployment, Django REST API, and more.
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR4Zmw5aTU4M3RsYjE1a2J5OGRhZmE3bzJkczFkdjk1azluemZncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpSc0bp7LmGC4/giphy.gif" alt="Your GIF Banner" width="1000">
 
