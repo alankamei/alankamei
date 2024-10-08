@@ -1,5 +1,5 @@
 
-<img src="https://media1.tenor.com/m/wYAGgr8pnogAAAAC/aesthetic.gif" alt="Your GIF Banner" width="1000">
+<img src="https://media1.tenor.com/m/wYAGgr8pnogAAAAC/aesthetic.gif" alt="Your GIF Banner" width="1000" height="350">
 
 ## 🚀 Skills & Educational Platforms
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
