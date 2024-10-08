@@ -3,7 +3,7 @@
 <!--
 **alankamei/alankamei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Hi there! I’m a mini software developer passionate about creating dynamic web applications using Django, React.js, AWS, and Node.js. I thrive on building seamless user experiences by leveraging both front-end ##and back-end technologies.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
