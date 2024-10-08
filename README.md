@@ -1,5 +1,5 @@
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR4Zmw5aTU4M3RsYjE1a2J5OGRhZmE3bzJkczFkdjk1azluemZncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpSc0bp7LmGC4/giphy.gif" alt="Your GIF Banner" width="1000">
+<img src="https://media1.tenor.com/m/wYAGgr8pnogAAAAC/aesthetic.gif" alt="Your GIF Banner" width="1000">
 
 ## 🚀 Skills & Educational Platforms
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
