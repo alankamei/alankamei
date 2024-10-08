@@ -3,9 +3,11 @@
 👩🏻‍🎓 Studied [Computer Science] at NIELIT Imphal, India<br/>
 💭 Currently learning about AWS deployment, Django REST API, and more.
 
+![Your GIF Banner](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
+
 ## 🚀 Skills & Educational Platforms
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-     <img src="https://img.shields.io/badge/django-%23092E2E.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/django-%23092E2E.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
