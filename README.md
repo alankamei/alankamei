@@ -1,3 +1,4 @@
+<div style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
 
 <img src="https://media1.tenor.com/m/xiWD7lkCTIcAAAAd/trees-windy.gif" alt="Your GIF Banner" width="1000" height="350">
 
@@ -27,3 +28,6 @@
     <img src="https://img.shields.io/badge/express-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express">
     <img src="https://img.shields.io/badge/wireshark-%23D77B7E.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
 </div>
+
+</div>
+
