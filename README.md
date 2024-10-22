@@ -2,13 +2,13 @@
     <img src="https://media1.tenor.com/m/xiWD7lkCTIcAAAAd/trees-windy.gif" alt="Your GIF Banner" width="1000" height="350">
 
 
- ## My Stats
+ ## Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alankamei&theme=shades-of-purple&show_icons=true" alt="Alan's GitHub stats" width="47%" height="200">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alankamei&layout=compact&theme=shades-of-purple" alt="Most Used Languages" width="47%" height="200">
 </div>   
 
-## Skills &  Favorites
+## Alan's Favorites
 ![Yersinia](https://img.shields.io/badge/yersinia-%23092E2E.svg?style=for-the-badge&logo=yersinia&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E2E.svg?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
