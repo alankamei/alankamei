@@ -1,6 +1,6 @@
 <div style="background-color: teal; padding: 20px; border-radius: 10px; color: white;">
-    <img src="https://media1.tenor.com/m/xiWD7lkCTIcAAAAd/trees-windy.gif" alt="Your GIF Banner" width="1000" height="350">
-
+<!--     <img src="https://media1.tenor.com/m/xiWD7lkCTIcAAAAd/trees-windy.gif" alt="Your GIF Banner" width="1000" height="350">
+ -->
 
  ## 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
