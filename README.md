@@ -4,9 +4,10 @@
 
  ## Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alankamei&theme=shades-of-purple&show_icons=true" alt="Alan's GitHub stats" style="max-width: 48%; height: auto;">
-    <img src="https://streak-stats.demolab.com/?user=alankamei&theme=shades-of-purple" alt="GitHub Streak Stats" style="max-width: 48%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=alankamei&theme=shades-of-purple&show_icons=true" alt="Alan's GitHub stats" width="46.5%" height="200">
+    <img src="https://streak-stats.demolab.com/?user=alankamei&theme=shades-of-purple" alt="GitHub Streak Stats" width="46.5%" height="200">
 </div>
+
 
 
 
