@@ -28,6 +28,9 @@
     <img src="https://img.shields.io/badge/express-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express">
     <img src="https://img.shields.io/badge/wireshark-%23D77B7E.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
 </div>
-
+#
+##Stats
+![Alan's Github stats] (https://github-readme-stats.vercel.app/api?username=alankamei&show_icons=true&theme=midnight-purple)
+#
 </div>
 
