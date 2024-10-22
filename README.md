@@ -3,10 +3,11 @@
 
 
  ## Stats
-<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=alankamei&theme=shades-of-purple&show_icons=true" alt="Alan's GitHub stats" width="400px" height="200px">
-    <img src="https://streak-stats.demolab.com/?user=alankamei&theme=shades-of-purple" alt="GitHub Streak Stats" width="400px" height="200px">
+<div align="center" style="display: flex; flex-direction: row; align-items: stretch; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=alankamei&theme=shades-of-purple&show_icons=true" alt="Alan's GitHub stats" style="width: 48%; height: 200px;">
+    <img src="https://streak-stats.demolab.com/?user=alankamei&theme=shades-of-purple" alt="GitHub Streak Stats" style="width: 48%; height: 200px;">
 </div>
+
 
 
 
