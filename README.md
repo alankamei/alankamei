@@ -27,6 +27,12 @@
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-%233F5B93.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/wireshark-%23D77B7E.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Goodreads](https://img.shields.io/badge/Goodreads-Profile-green)
+![Books Read](https://img.shields.io/badge/Books_Read-42-blue)
+![Currently Reading](https://img.shields.io/badge/Currently_Reading-The_Great_Gatsby-yellow)
+![Favorite Genre](https://img.shields.io/badge/Favorite_Genre-Fiction-red)
+![Diverse Reads](https://img.shields.io/badge/Diverse_Reads-Supporter-lightblue)
+
 
 
 
