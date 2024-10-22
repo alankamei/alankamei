@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/django-%23092E2E.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/django%20rest%20framework-%23092E2E.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -26,10 +27,9 @@
 
 ## 📊 GitHub Stats
 
-
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=alankamei&theme=shades-of-purple&show_icons=true&width=400&height=200" alt="Alan's GitHub stats" style="flex: 1; margin-right: 10px; width: 400px; height: 200px; object-fit: cover;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alankamei&layout=compact&theme=shades-of-purple&width=400&height=200" alt="Most Used Languages" style="flex: 1; margin-left: 10px; width: 400px; height: 200px; object-fit: cover;">
+    <img src="https://github-readme-stats.vercel.app/api?username=alankamei&theme=shades-of-purple&show_icons=true&hide_title=true" alt="Alan's GitHub stats" style="flex: 1; margin-right: 10px; width: 400px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alankamei&layout=compact&theme=shades-of-purple&hide_title=true" alt="Most Used Languages" style="flex: 1; margin-left: 10px; width: 400px; height: 200px;">
 </div>
 
 </div>
