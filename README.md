@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
     <img src="https://img.shields.io/badge/node.js-%2300B748.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/duolingo-%2348A83B.svg?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo">
     <img src="https://img.shields.io/badge/nmap-%234EAA1E.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
@@ -28,9 +27,12 @@
     <img src="https://img.shields.io/badge/express-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express">
     <img src="https://img.shields.io/badge/wireshark-%23D77B7E.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
 </div>
-#
-##Stats
-![Alan's Github stats] (https://github-readme-stats.vercel.app/api?username=alankamei&show_icons=true&theme=midnight-purple)
-#
+
+## 📊 My Stats
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=alankamei&theme=shades-of-purple&show_icons=true&height=200" alt="Alan's GitHub stats" style="flex: 1; margin-right: 10px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alankamei&layout=compact&theme=shades-of-purple&height=200" alt="Most Used Languages" style="flex: 1; margin-left: 10px; height: 200px;">
 </div>
 
+</div>
