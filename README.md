@@ -31,12 +31,13 @@
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
-    <div style="flex: 1; margin-right: 10px; height: 100px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=alankamei&theme=shades-of-purple&show_icons=true" alt="Alan's GitHub stats" style="width: 50%; height: 50%;">
+    <div style="flex: 1; margin-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=alankamei&theme=shades-of-purple&show_icons=true" alt="Alan's GitHub stats" style="width: 100%; height: 200px; object-fit: cover;">
     </div>
-    <div style="flex: 1; margin-left: 10px; height: 100px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alankamei&layout=compact&theme=shades-of-purple" alt="Most Used Languages" style="width: 50%; height: 50%;">
+    <div style="flex: 1; margin-left: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alankamei&layout=compact&theme=shades-of-purple" alt="Most Used Languages" style="width: 100%; height: 200px; object-fit: cover;">
     </div>
 </div>
+
 
 </div>
