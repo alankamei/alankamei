@@ -11,8 +11,6 @@
 ## Alan's Favorites
 ![Yersinia](https://img.shields.io/badge/yersinia-%23092E2E.svg?style=for-the-badge&logo=yersinia&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E2E.svg?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django REST Framework](https://img.shields.io/badge/django%20rest%20framework-%23092E2E.svg?style=for-the-badge&logo=django&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
