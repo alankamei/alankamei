@@ -30,8 +30,8 @@
 ![Goodreads](https://img.shields.io/badge/Goodreads-Profile-green?style=for-the-badge)
 ![Books Read](https://img.shields.io/badge/Books_Read-42-purple?style=for-the-badge)
 ![Currently Reading](https://img.shields.io/badge/Currently_Reading-The_Paris_Library-purple?style=for-the-badge)
-![Favorite Genre](https://img.shields.io/badge/Favorite_Genre-Fiction-red?style=for-the-badge)
-![Diverse Reads](https://img.shields.io/badge/Diverse_Reads-Supporter-lightblue?style=for-the-badge)
+![Favorite Genre](https://img.shields.io/badge/Favorite_Genre-Fiction-teal?style=for-the-badge)
+![Diverse Reads](https://img.shields.io/badge/Diverse_Reads-Supporter-darkblue?style=for-the-badge)
 
 
 
