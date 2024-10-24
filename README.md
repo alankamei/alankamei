@@ -27,16 +27,8 @@
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-%23006767.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/wireshark-%23D77B7E.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-![Goodreads](https://img.shields.io/badge/Goodreads-Profile-green?style=for-the-badge)
 ![Books Read](https://img.shields.io/badge/Books_Read-42-purple?style=for-the-badge)
 ![Currently Reading](https://img.shields.io/badge/Currently_Reading-The_Paris_Library-purple?style=for-the-badge)
 ![Favorite Genre](https://img.shields.io/badge/Favorite_Genre-Fiction-teal?style=for-the-badge)
-![Diverse Reads](https://img.shields.io/badge/Diverse_Reads-Supporter-darkblue?style=for-the-badge)
-
-
-
-
-
-
 
 </div>
