@@ -26,6 +26,7 @@
 ![AWS](https://img.shields.io/badge/aws-%23232F7E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-%23006767.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST-Cybersecurity_Framework-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-%23E2B000.svg?style=for-the-badge&logo=owasp&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/wireshark-%23D77B7E.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Books Read](https://img.shields.io/badge/Books_Read-42-purple?style=for-the-badge)
