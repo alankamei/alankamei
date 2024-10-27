@@ -19,16 +19,21 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%2300B748.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Duolingo](https://img.shields.io/badge/duolingo-%237300e6.svg?style=for-the-badge&logo=duolingo&logoColor=white)
-![Nmap](https://img.shields.io/badge/nmap-%234EAA1E.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%234EAA1E.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/metasploit-%23E74C3C.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/hackerrank-%2345B31C.svg?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23232F7E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-%23006767.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST-Cybersecurity_Framework-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/wireshark-%23D77B7E.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Books Read](https://img.shields.io/badge/Books_Read-42-purple?style=for-the-badge)
 ![Currently Reading](https://img.shields.io/badge/Currently_Reading-The_Paris_Library-purple?style=for-the-badge)
 ![Favorite Genre](https://img.shields.io/badge/Favorite_Genre-Fiction-teal?style=for-the-badge)
+
+
+
+
 
 </div>
